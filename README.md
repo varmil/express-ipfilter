@@ -67,7 +67,7 @@ module.exports = app
 Using a function to get Ips:
 
 ```javascript
-const ips = function() {
+const ips = function(req) {
   return ['127.0.0.1']
 }
 
