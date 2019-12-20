@@ -1,6 +1,6 @@
 {
-  "name": "express-ipfilter",
-  "version": "1.1.2",
+  "name": "express-ipfilter-req",
+  "version": "1.2.0",
   "description": "A light-weight IP address based filtering system",
   "keywords": [
     "express",
@@ -10,9 +10,9 @@
     "ipfilter",
     "middleware"
   ],
-  "repository": "https://github.com/casz/express-ipfilter",
+  "repository": "https://github.com/varmil/express-ipfilter",
   "license": "MIT",
-  "author": "casz",
+  "author": "varmil",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
