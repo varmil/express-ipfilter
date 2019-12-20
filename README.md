@@ -6,7 +6,7 @@ This package provides easy IP based access control. This can be achieved either 
 
 Recommended installation is with npm. To add express-ipfilter to your project, do:
 
-    npm install varmil/express-ipfilter
+    npm install express-ipfilter-req
 
 ## Usage with Express
 
