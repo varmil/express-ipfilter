@@ -125,18 +125,7 @@ const customDetection = req => {
 ipfilter(ids, { detectIp: customDetection })
 ```
 
-## Contributing
-
-See the `CONTRIBUTING.MD` document for more information on contributing.
 
 ### Running Tests
 
 Run tests by using `npm test`
-
-## Changelog
-
-Moved to [GitHub Releases](https://github.com/casz/express-ipfilter/releases)
-
-## Credits
-
-BaM Interactive - [code.bamideas.com](http://code.bamideas.com)
