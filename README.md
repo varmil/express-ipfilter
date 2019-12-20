@@ -1,4 +1,4 @@
-# express-ipfilter: A light-weight IP address based filtering system
+# express-ipfilter-req: light-weight IP address filtering
 
 https://github.com/casz/express-ipfilter をforkしたものです。ips取得にreqオブジェクトを取れるようになっており、より柔軟なIP制御が可能となります。
 
@@ -26,7 +26,6 @@ app.listen(3000)
 Whitelisting certain IP addresses, while denying all other IPs:
 
 ```javascript
-// Init dependencies
 // Init dependencies
 const express = require('express')
 const ipfilter = require('express-ipfilter').IpFilter
