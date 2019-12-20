@@ -1,10 +1,8 @@
 # express-ipfilter: A light-weight IP address based filtering system
 
-This package provides easy IP based access control. This can be achieved either by blacklisting certain IPs and whitelisting all others, or whitelisting certain IPs and blacklisting all others.
+https://github.com/casz/express-ipfilter をforkしたものです。ips取得にreqオブジェクトを取れるようになっており、より柔軟なIP制御が可能となります。
 
 ## Installation
-
-Recommended installation is with npm. To add express-ipfilter to your project, do:
 
     npm install express-ipfilter-req
 
